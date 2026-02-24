@@ -1,0 +1,13 @@
+最优超参数:
+colsample_bytree: 0.6
+gamma: 0
+learning_rate: 0.08
+max_depth: 4
+min_child_weight: 2
+n_estimators: 350
+reg_alpha: 0.01
+reg_lambda: 8
+subsample: 0.9
+best_cv_rmse: 0.12096149672478981
+
+最优交叉验证RMSE (log尺度): 0.1210
