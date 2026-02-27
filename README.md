@@ -8,4 +8,4 @@
 | **RandomForest** | 随机森林（Bagging）        | 0.1509                 |
 | **Lasso**        | 线性回归 + L1正则化        | 0.1254                 |
 
-数据预处理流程见 `数据预处理.ipynb`，模型训练流程见 `train_xgboost.py`、`train_random_forest.py` 和 `train_lasso.py`，预测流程见 `predict.py`。
+数据预处理流程见 `preprocessing.ipynb`，模型训练流程见 `train_xgboost.py`、`train_random_forest.py` 和 `train_lasso.py`，预测流程见 `predict.py`。
